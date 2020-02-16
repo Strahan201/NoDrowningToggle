@@ -1,0 +1,9 @@
+name: NoDrowningToggle
+author: Strahan
+main: com.sylvcraft.NoDrowningToggle
+version: 1.0
+description: Lets people toggle whether or not they can drown
+api-version: 1.13
+commands:
+  drowntoggle:
+    description: Control command

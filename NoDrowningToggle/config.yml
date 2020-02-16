@@ -1,0 +1,9 @@
+messages:
+  access-denied: '&cAccess denied!'
+  player-only: 'This command is only relevant to players!'
+  toggled: '&eDrowning is &6%status%'
+  toggled-time: '&eDrowning is &6disabled &efor &6%interval% &esecond(s)'
+  toggled-others: '&eDrowning is &6%status% &efor &6%player%'
+  toggled-time-others: '&eDrowning is &6disabled &efor &6%player% &efor &6%interval% &esecond(s)'
+  invalid-player: '&cInvalid player!'
+  invalid-time: '&cThat is not a valid amount of seconds!'
